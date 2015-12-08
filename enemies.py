@@ -100,7 +100,7 @@ class BlackDragon(Dragon):
         self.set_answer(x * y)
         return self.__quest
 
-#FIXME класс Троллей
+#класс Троллей
 class Troll(Enemy):
     name = 'тролль'
 
